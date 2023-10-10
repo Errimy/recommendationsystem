@@ -1,4 +1,4 @@
-# recommendationsystem
+# Retail e-Commerce Analysis & Recommender System
 ## Introduction
 
 An eCommerce company wants to make better use of their data with the goal of better decision-making and optimized item recommendations for visitors of the website to increase sales. 
