@@ -62,6 +62,8 @@ On this third page, we have displayed visualizations with a temporal scope, enab
 
 
 ## Links
+For more details, read the full documentation here: https://github.com/Errimy/recommendationsystem/blob/main/Retail%20e-Commerce%20Analysis%20%26%20Recommender%20System%20Documentation.pdf
+
 Download the Collaborative model here: https://drive.google.com/file/d/1K7DFHMLl1WI1Phsarl9etjFmQNoDbI92/view?usp=sharing
 
 Download the Power BI dashboard here: https://drive.google.com/file/d/1P7HD3oZ2M7U2cY5QQ_5tw7-I5Vh5CU2j/view?usp=sharing
