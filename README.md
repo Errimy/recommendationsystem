@@ -24,6 +24,6 @@ Here is the architecture we followed in order to achieve this project:
 The tools used are:
 ![image](https://github.com/Errimy/recommendationsystem/assets/81532862/8c5ac2b7-1559-40a3-af9d-70d72b1d92c7)
 
-
-
-
+##Links
+Download the Collaborative model here: https://drive.google.com/file/d/1K7DFHMLl1WI1Phsarl9etjFmQNoDbI92/view?usp=sharing
+Download the Power BI dashboard here: https://drive.google.com/file/d/1P7HD3oZ2M7U2cY5QQ_5tw7-I5Vh5CU2j/view?usp=sharing
