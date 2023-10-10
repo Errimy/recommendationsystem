@@ -1,4 +1,4 @@
-# Retail e-Commerce Analysis & Recommender System
+![image](https://github.com/Errimy/recommendationsystem/assets/81532862/84ce5d9a-914a-4fde-87bb-1649f99158e8)# Retail e-Commerce Analysis & Recommender System
 ## Introduction
 
 An eCommerce company wants to make better use of their data with the goal of better decision-making and optimized item recommendations for visitors of the website to increase sales. 
@@ -40,6 +40,26 @@ This section delves into a deeper understanding of the dataset through data visu
 ### Part 3: Machine Learning
 
 In the final section, the recommendation system is developed using SciPy and Surprise. SciPy is a library in Python used for scientific and technical computing, while Surprise is specifically designed for building and analyzing recommendation systems. The collaborative filtering technique is applied here, where the system makes predictions by seeking similarities between users. This machine learning approach enables the system to generate accurate recommendations.
+
+## Dashboards
+We divided our Dashboard into three pages: 
+### Overview
+In this first page, we have represented the visualizations that provide a high-level summary of key metrics and insights to give a quick understanding of the overall situation. 
+![image](https://github.com/Errimy/recommendationsystem/assets/81532862/930d98d5-9719-4342-abf8-0988746eea1e)
+
+### Analysis
+We tried to dedicate this page to showcasing key insights and visualizations from our data analysis. 
+![image](https://github.com/Errimy/recommendationsystem/assets/81532862/df1d997c-84fa-4374-8302-a8fba1355c77)
+
+![image](https://github.com/Errimy/recommendationsystem/assets/81532862/ee38a7fe-6446-4b90-a67b-ce282406ba2a)
+
+### Events Time Distribution
+On this third page, we have displayed visualizations with a temporal scope, enabling us to analyze the distribution of data over time. 
+![image](https://github.com/Errimy/recommendationsystem/assets/81532862/4f25b9f7-a76c-4083-bd01-9e244a8b243e)
+![image](https://github.com/Errimy/recommendationsystem/assets/81532862/9f77be49-8235-488b-9ecc-acb9d8c906fa)
+
+
+
 
 ## Links
 Download the Collaborative model here: https://drive.google.com/file/d/1K7DFHMLl1WI1Phsarl9etjFmQNoDbI92/view?usp=sharing
