@@ -1,4 +1,4 @@
-![image](https://github.com/Errimy/recommendationsystem/assets/81532862/84ce5d9a-914a-4fde-87bb-1649f99158e8)# Retail e-Commerce Analysis & Recommender System
+# Retail e-Commerce Analysis & Recommender System
 ## Introduction
 
 An eCommerce company wants to make better use of their data with the goal of better decision-making and optimized item recommendations for visitors of the website to increase sales. 
